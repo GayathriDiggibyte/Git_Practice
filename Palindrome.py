@@ -6,8 +6,8 @@ def palin(n):
     rev=(rev*10)+rem
     t=t//10
   if(rev==n):
-    print(n, "is a palindrome")
+    print(n, " is a palindrome number")
   else:
-    print(n, "is not a palindrome")
+    print(n, " is not a palindrome number")
 n=int(input("Enter a number: "))
 palin(n)
