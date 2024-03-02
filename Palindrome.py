@@ -11,3 +11,4 @@ def palin(n):
     print(n, " is not a palindrome number")
 n=int(input("Enter a number: "))
 palin(n)
+print("Program Ended")
