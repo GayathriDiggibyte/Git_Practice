@@ -14,3 +14,5 @@ def main():
     res=sumofelements(l)
     print("The sum of the elements is : ",res)
 main()
+def reverse(l):
+    print(reverse())
