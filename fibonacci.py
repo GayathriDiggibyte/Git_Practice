@@ -9,3 +9,4 @@ def fib(n):
     t1=t2
 n=int(input("Enter a number to print fibonacci series: \n"))
 fib(n)
+commit1
