@@ -1,2 +1,7 @@
 want to practice cherry-pick
+<<<<<<< Updated upstream
 some change as important
+=======
+
+some change not important
+>>>>>>> Stashed changes
