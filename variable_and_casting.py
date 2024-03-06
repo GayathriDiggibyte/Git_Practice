@@ -1,0 +1,24 @@
+a=10
+b="Gayathri"
+c=345.56
+d=True
+complex1=3+5j
+type_case1=str(a)
+type_case2=int(c)
+type_case3=float(a)
+type_case4=str(d)
+type_case5=str(complex1)
+concat_str=type_case1+" fruits"
+print(type_case1,type_case2,type_case3,type_case4,type_case5)
+print(concat_str)
+print(a,b,c,d,complex1)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(complex1))
+print(type(type_case1))
+print(type(type_case2))
+print(type(type_case3))
+print(type(type_case4))
+print(type(type_case5))
