@@ -1,0 +1,10 @@
+dict={"Name" : "Gayathri","Address":"Aruppukottai"}
+print("The length : ",len(dict))
+print(dict["Name"])
+print(dict.get("Address"))
+dict.update({"role" : "Data Engineer"})
+print(dict.pop("Address"))
+print(dict.keys())
+print(dict.values())
+print(dict.items())
+print(dict.popitem())
