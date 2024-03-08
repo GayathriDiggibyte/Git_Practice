@@ -12,3 +12,5 @@ def palin(n):
 n=int(input("Enter a number: "))
 palin(n)
 print("Program Ended")
+#commit2
+#commit3
