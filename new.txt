@@ -1,0 +1,7 @@
+i am going to push the content from local repsository.
+
+<<<<<<< HEAD
+change something by person1
+=======
+change something by person2
+>>>>>>> 84e18d6b51d693a8c9fef32028b0eb6b54b4e780
